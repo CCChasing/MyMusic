@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.csy.MyMusic.activitys.PlayMusicActivity">
+
+
+    <ImageView
+        android:id="@+id/iv_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/img1"/>
+
+    <com.csy.MyMusic.views.PlayMusicView
+        android:id="@+id/play_music_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"></com.csy.MyMusic.views.PlayMusicView>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/no_bar_back"
+        android:layout_margin="@dimen/marginSize"
+        android:onClick="onBackClick"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="480dp">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="音乐名称"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="@dimen/titleSize"/>
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="作者"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="@dimen/titleSize"
+            android:layout_marginTop="@dimen/marginSize"/>
+
+    </LinearLayout>
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/linearBtnGroup"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_marginTop="620dp"-->
+<!--        android:layout_marginBottom="40dp"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnLast"-->
+<!--            android:background="#e0000000"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/btn_last" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnStar"-->
+<!--            android:background="#e0000000"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/btn_star" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnStop"-->
+<!--            android:background="#e0000000"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/btn_stop" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/btnNext"-->
+<!--            android:background="#e0000000"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="@string/btn_next" />-->
+
+<!--    </LinearLayout>-->
+
+</FrameLayout>

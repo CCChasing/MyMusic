@@ -1,0 +1,446 @@
+{
+  "album": [
+    {
+      "albumId": "1",
+      "name": "陈奕迅选集",
+      "poster": "http://res.lgdsunday.club/poster-9.png",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "101",
+          "name": "不要说话",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "https://y.qq.com/n/yqq/song/002B2EAA3brD5b.html",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "102",
+          "name": "红玫瑰",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "103",
+          "name": "十年",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "104",
+          "name": "单车",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "105",
+          "name": "富士山下",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "106",
+          "name": "好久不见",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "107",
+          "name": "爱情转移",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "陈奕迅"
+        },
+        {
+          "musicId": "108",
+          "name": "淘汰",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "陈奕迅"
+        }
+      ]
+    },
+    {
+      "albumId": "2",
+      "name": "写作业必备",
+      "poster": "http://res.lgdsunday.club/poster-10.png",
+      "playNum": "78.3万",
+      "list": [
+        {
+          "musicId": "201",
+          "name": "下一个自己",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "张杰"
+        },
+        {
+          "musicId": "202",
+          "name": "我们在改变",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "魏晨"
+        },
+        {
+          "musicId": "203",
+          "name": "我们的明天",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "鹿晗"
+        },
+        {
+          "musicId": "204",
+          "name": "我怀念的",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "孙燕姿"
+        },
+        {
+          "musicId": "205",
+          "name": "只只",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "孟凡明"
+        },
+        {
+          "musicId": "琵琶行",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "奇然"
+        },
+        {
+          "musicId": "207",
+          "name": "全世界谁倾听你",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "林宥嘉"
+        },
+        {
+          "musicId": "208",
+          "name": "万有引力",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "汪苏泷"
+        }
+      ]
+    },
+    {
+      "albumId": "3",
+      "name": "五月天|精选",
+      "poster": "http://res.lgdsunday.club/poster-11.png",
+      "playNum": "1098万",
+      "list": [
+        {
+          "musicId": "301",
+          "name": "温柔",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "302",
+          "name": "拥抱",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "303",
+          "name": "彩虹",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "304",
+          "name": "知足",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "305",
+          "name": "恋爱ing",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "306",
+          "name": "伤心的人别听慢歌",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "307",
+          "name": "第一天",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "五月天"
+        },
+        {
+          "musicId": "308",
+          "name": "突然好想你",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "五月天"
+        }
+      ]
+    },
+    {
+      "albumId": "4",
+      "name": "跑步专用",
+      "poster": "http://res.lgdsunday.club/poster-12.png",
+      "playNum": "1.2亿",
+      "list": [
+        {
+          "musicId": "401",
+          "name": "失物招领",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "徐秉龙"
+        },
+        {
+          "musicId": "402",
+          "name": "孤身",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "徐秉龙"
+        },
+        {
+          "musicId": "403",
+          "name": "热爱105°的你",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "粥絮"
+        },
+        {
+          "musicId": "404",
+          "name": "才不怪我",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "飞行少年"
+        },
+        {
+          "musicId": "405",
+          "name": "GO ON",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Wuuu"
+        },
+        {
+          "musicId": "406",
+          "name": "加菲猫",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Two La"
+        },
+        {
+          "musicId": "407",
+          "name": "懒洋洋的夏天",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "丁丁与西西"
+        },
+        {
+          "musicId": "408",
+          "name": "混沌世界",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "徐薇"
+        }
+      ]
+    },
+    {
+      "albumId": "5",
+      "name": "影视热歌",
+      "poster": "http://res.lgdsunday.club/poster-13.png",
+      "playNum": "2089.7万",
+      "list": [
+        {
+          "musicId": "501",
+          "name": "无名的人",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "毛不易"
+        },
+        {
+          "musicId": "502",
+          "name": "好不容易",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "告五人"
+        },
+        {
+          "musicId": "503",
+          "name": "情人不会表白",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "房东的猫"
+        },
+        {
+          "musicId": "504",
+          "name": "留白",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "庄主恒"
+        },
+        {
+          "musicId": "505",
+          "name": "莫欺少年穷",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "九连真人"
+        },
+        {
+          "musicId": "506",
+          "name": "藏",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "徐明浩"
+        },
+        {
+          "musicId": "507",
+          "name": "当真",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "刘瑞瑞"
+        },
+        {
+          "musicId": "508",
+          "name": "偏要",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "魏宏宇"
+        }
+      ]
+    },
+    {
+      "albumId": "6",
+      "name": "2021最火",
+      "poster": "http://res.lgdsunday.club/poster-14.png",
+      "playNum": "56.7万",
+      "list": [
+        {
+          "musicId": "601",
+          "name": "百年孤寂",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "王菲"
+        },
+        {
+          "musicId": "602",
+          "name": "唯一",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "告五人"
+        },
+        {
+          "musicId": "603",
+          "name": "假面舞会",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "很美味"
+        },
+        {
+          "musicId": "604",
+          "name": "危险派对",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "王以太/刘至佳"
+        },
+        {
+          "musicId": "605",
+          "name": "不说再见",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "任嘉伦"
+        },
+        {
+          "musicId": "606",
+          "name": "为什么最迷人的最危险",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "韩夜"
+        },
+        {
+          "musicId": "607",
+          "name": "远走高飞",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "金志文"
+        },
+        {
+          "musicId": "608",
+          "name": "红色高跟鞋",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "蔡健雅"
+        }
+      ]
+    }
+  ],
+  "hot": [
+    {
+      "musicId": "7",
+      "name": "Nostalgic Piano",
+      "poster": "http://res.lgdsunday.club/poster-1.png",
+      "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+      "author": "Rafael Krux"
+    },
+    {
+      "musicId": "8",
+      "name": "La Citadelle",
+      "poster": "http://res.lgdsunday.club/poster-2.png",
+      "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+      "author": "Komiku"
+    },
+    {
+      "musicId": "9",
+      "name": "Champ de tournesol",
+      "poster": "http://res.lgdsunday.club/poster-3.png",
+      "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+      "author": "Komiku"
+    },
+    {
+      "musicId": "10",
+      "name": "Horizon Flare",
+      "poster": "http://res.lgdsunday.club/poster-4.png",
+      "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+      "author": "Alexander Nakarada"
+    },
+    {
+      "musicId": "11",
+      "name": "Lovely Piano Song",
+      "poster": "http://res.lgdsunday.club/poster-5.png",
+      "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+      "author": "Rafael Krux"
+    },
+    {
+      "musicId": "12",
+      "name": "Romantic Inspiration",
+      "poster": "http://res.lgdsunday.club/poster-6.png",
+      "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+      "author": "Rafael Krux"
+    },
+    {
+      "musicId": "13",
+      "name": "Brothers Unite",
+      "poster": "http://res.lgdsunday.club/poster-7.png",
+      "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+      "author": "Alexander Nakarada"
+    },
+    {
+      "musicId": "14",
+      "name": "Amazing Grace",
+      "poster": "http://res.lgdsunday.club/poster-8.png",
+      "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+      "author": "Kevin MacLeod"
+    }
+  ]
+}
